@@ -1,0 +1,9 @@
+{
+    "INTERNAL_SERVER_ERROR":"Unknown error occurred. Please try again later or contact the web administrator.",
+    "API_DES" : "API platform for basic setup of the project!",
+    "BAD_REQUEST" : "Invalid request. Please check the API reference manual!",
+    "MISSING_PARAMETERS" : "Bad request. Few parameters are missing from the request. Reference %s",
+    "AUTHENTICATION_FAILED" : "Authentication failed!. Please check your login credentials.",
+    "REQ_ACTIVATION":"Your account is not activated yet. Please follow up the email you get during registraion.",
+    "ACCOUNT_SUSPENDED":"Your account has been suspended by the administrator. Please contact the support team."
+}
